@@ -49,10 +49,10 @@ To design and develop a dynamic Power BI dashboard that helps track sales perfor
 ## 📷 Dashboard Preview
 
 ### Overview
-![Overview](images/overview.png)
+![Overview](overview.png)
 
 ### Details
-![Details](images/details.png)
+![Details](details.png)
 
 ---
 
