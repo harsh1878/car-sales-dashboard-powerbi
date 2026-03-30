@@ -11,7 +11,6 @@
 <p align="center">
   <img src="Details.png" width="700"/>
 </p>
----
 
 ## 📌 Overview
 This project focuses on analyzing car sales data using Power BI to generate meaningful insights and support business decision-making.
