@@ -49,11 +49,14 @@ To design and develop a dynamic Power BI dashboard that helps track sales perfor
 ## 📷 Dashboard Preview
 
 ### Overview
-![Overview](car-sales-dashboard-powerbi/overview.png)
+<p align="center">
+  <img src="Overview.png" width="700"/>
+</p>
 
 ### Details
-![Details](car-sales-dashboard-powerbi/details.png)
-
+<p align="center">
+  <img src="Details.png" width="700"/>
+</p>
 ---
 
 ## 📂 Dataset
