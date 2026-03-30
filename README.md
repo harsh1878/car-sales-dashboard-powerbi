@@ -1,5 +1,18 @@
 # 🚗 Car Sales Dashboard (Power BI Project)
 
+## 📷 Dashboard Preview
+
+### Overview
+<p align="center">
+  <img src="Overview.png" width="700"/>
+</p>
+
+### Details
+<p align="center">
+  <img src="Details.png" width="700"/>
+</p>
+---
+
 ## 📌 Overview
 This project focuses on analyzing car sales data using Power BI to generate meaningful insights and support business decision-making.
 
@@ -44,19 +57,6 @@ To design and develop a dynamic Power BI dashboard that helps track sales perfor
 - Certain regions showed significantly higher sales performance.  
 - Seasonal trends observed in weekly sales data.  
 
----
-
-## 📷 Dashboard Preview
-
-### Overview
-<p align="center">
-  <img src="Overview.png" width="700"/>
-</p>
-
-### Details
-<p align="center">
-  <img src="Details.png" width="700"/>
-</p>
 ---
 
 ## 📂 Dataset
